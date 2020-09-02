@@ -27,8 +27,8 @@ body{
 #pick:hover{
     cursor: pointer;
     transition: 1s;
-    color: #00a895;
-    text-shadow: 0 0 40px #00a895, 0 0 10px #00a895, 20px 0 20px blueviolet;
+    color: white;
+    text-shadow: 0 0 10px white, 0 0 20px white, 0 0 40px white;
 }
 
 #pick:hover #new{
